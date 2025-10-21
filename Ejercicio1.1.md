@@ -22,4 +22,7 @@ __Este texto tiene emphasis__
 [andreu](https://www.google.com)
 
 > Esto es una prueva de  Blockquotes
-> 
+> I esto tambien eh.
+
+\*Hola\*
+\_Hola\_
